@@ -1,0 +1,7 @@
+H:\OOP2 Fall 20-21\Lab-task\Lab-7\Account1\Account1\obj\Debug\Account1.csprojAssemblyReference.cache
+H:\OOP2 Fall 20-21\Lab-task\Lab-7\Account1\Account1\obj\Debug\Account1.csproj.CoreCompileInputs.cache
+H:\OOP2 Fall 20-21\Lab-task\Lab-7\Account1\Account1\bin\Debug\Account1.exe.config
+H:\OOP2 Fall 20-21\Lab-task\Lab-7\Account1\Account1\bin\Debug\Account1.exe
+H:\OOP2 Fall 20-21\Lab-task\Lab-7\Account1\Account1\bin\Debug\Account1.pdb
+H:\OOP2 Fall 20-21\Lab-task\Lab-7\Account1\Account1\obj\Debug\Account1.exe
+H:\OOP2 Fall 20-21\Lab-task\Lab-7\Account1\Account1\obj\Debug\Account1.pdb

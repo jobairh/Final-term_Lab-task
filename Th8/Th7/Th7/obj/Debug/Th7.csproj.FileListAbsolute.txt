@@ -1,0 +1,7 @@
+H:\OOP2 Fall 20-21\Lab-task\L7\Th7\Th7\bin\Debug\Th7.exe.config
+H:\OOP2 Fall 20-21\Lab-task\L7\Th7\Th7\bin\Debug\Th7.exe
+H:\OOP2 Fall 20-21\Lab-task\L7\Th7\Th7\bin\Debug\Th7.pdb
+H:\OOP2 Fall 20-21\Lab-task\L7\Th7\Th7\obj\Debug\Th7.csprojAssemblyReference.cache
+H:\OOP2 Fall 20-21\Lab-task\L7\Th7\Th7\obj\Debug\Th7.csproj.CoreCompileInputs.cache
+H:\OOP2 Fall 20-21\Lab-task\L7\Th7\Th7\obj\Debug\Th7.exe
+H:\OOP2 Fall 20-21\Lab-task\L7\Th7\Th7\obj\Debug\Th7.pdb
