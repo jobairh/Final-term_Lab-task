@@ -1,0 +1,7 @@
+H:\OOP2 Fall 20-21\code practice\Th8-calculator\Calculator1\Calculator1\bin\Debug\Calculator1.exe.config
+H:\OOP2 Fall 20-21\code practice\Th8-calculator\Calculator1\Calculator1\bin\Debug\Calculator1.exe
+H:\OOP2 Fall 20-21\code practice\Th8-calculator\Calculator1\Calculator1\bin\Debug\Calculator1.pdb
+H:\OOP2 Fall 20-21\code practice\Th8-calculator\Calculator1\Calculator1\obj\Debug\Calculator1.csprojAssemblyReference.cache
+H:\OOP2 Fall 20-21\code practice\Th8-calculator\Calculator1\Calculator1\obj\Debug\Calculator1.csproj.CoreCompileInputs.cache
+H:\OOP2 Fall 20-21\code practice\Th8-calculator\Calculator1\Calculator1\obj\Debug\Calculator1.exe
+H:\OOP2 Fall 20-21\code practice\Th8-calculator\Calculator1\Calculator1\obj\Debug\Calculator1.pdb
